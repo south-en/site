@@ -1,0 +1,61 @@
+baseURL = "https://south-en.github.io/"
+languageCode = "en-us"
+title = "SOUTHEN"
+themesDir = ""
+theme = "themes/hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  google_analytics_id="G-3VPNCCCKS4"
+
+  [params.homepage_meta_tags]
+    meta_description = "Project dellivery solutions."
+    meta_og_title = "SOUTHEN"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = "Project dellivery solutions."
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+    name = "Demo"
+    url = "/demo/"
+    weight = 1
+
+
+[[menu.main]]
+  name = "Our work"
+  url = "/services/"
+  weight = 2
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+#[[menu.main]]
+#    name = "Analytics"
+#    url = "/history/"
+#    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
