@@ -1,5 +1,5 @@
 ---
-title: 'Join us'
+title: 'About us'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
 background: 'images/.gif'
@@ -8,5 +8,16 @@ button: 'Contact us'
 buttonLink: 'contact'
 ---
 
-We are an open community of project controls and risk management specialists.<br><br>
-We process large amounts of projects data to train machine learning models and provide management teams with discernment and more certain quantitative risk analyses.
+We are a growing network of Project Control professionals and Risk Management specialists in Latin America.<br><br>
+Our resumes show extensive experience in project control of engineering and construction, all-sizes projects in:
+* Mining
+
+* Oil & Gas
+
+* Infrastructure
+
+* Renewable energies
+
+***
+
+ <sub>SOUTHEN LLC is a company based in Wyoming, USA.</sub>

@@ -1,23 +1,23 @@
 ---
-title: 'Projects Controls set up'
+title: 'Projects Control set up'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 weight: 2
 draft: false
-heroHeading: 'Get ready to control'
-heroSubHeading: 'Project Controls set up.'
+heroHeading: 'Get ready to manage'
+heroSubHeading: 'Project Control set up.'
 heroBackground: 'images/network.gif'
 button: 'Contact us to know more'
 buttonLink: 'contact'
 ---
 
-We provide standard high-level descriptive analytics at no charge. Customization and deep-dive options are available.
+We help your team to quickly develop the project structure and management instruments necessary to make informed decisions.
 
-1. - Projects' delay distribution.
-2. - Distributions decomposition by uncertainty and impact of risks.
-3. - High-level risks and historical influence of variables in projects performance.
-4. - Descriptive analysis of risks and uncertainty at lower levels (__custom__).
-5. - Statistics and level of confidence (__custom__).
-6. - Distribution fits, correlations, and more (__custom__).
+1. - Work, Cost and Risk Breakdown Structures (WBS, CBS, RBS).
+2. - Project Control Plan (CPC).
+3. - Schedule and Basis of Schedule (BOS) development.
+4. - Support for Project Execution Plan (PEP) development.
+5. - Reporting and deliverables templates.
+
 ***

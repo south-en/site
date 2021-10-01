@@ -1,21 +1,19 @@
 ---
-title: 'Project controls team'
+title: 'Project control Management'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Predictive analytics'
-heroSubHeading: 'Probability distribution for your ongoing and future projects'
+heroHeading: 'Strengthen your Project Control team'
+heroSubHeading: 'Management and coaching for an effective Project Control'
 heroBackground: 'images/network.gif'
 button: 'Contact us to know more'
 buttonLink: 'contact'
 ---
+We provide direct Project Control Management assistance to new and existing teams to get your projects back on track.
+* Regular Project Control Management services.
+* Support new teams in their landing process.
+* Skills evaluation in the Project Control staffing process of your company.
 
-Custom predictive analytics for portfolios, projects and critical milestones. Take advantage of a rich and transversal database.
-1. - Adjusted level of confidence for distribution fits.
-2. - Completion probabilities, _**P50**_, _**P80**_.
-3. - Sensitivity analysis.
-3. - Deep-dive analysis for key drivers.
-4. - Influence of rare risk events.
 ***

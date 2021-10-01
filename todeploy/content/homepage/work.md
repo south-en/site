@@ -1,14 +1,11 @@
 ---
-title: "We provide our extensive experience and flexibility to serve the success of your projects."
+title: "We provide our agility and knowledge to serve the success of your projects."
 weight: 1
 background: 'work/.svg'
-button: 'interactive demo'
-buttonLink: 'demo'
+button: 'contact us'
+buttonLink: 'contact'
 ---
 
-Gain access to risks and uncertainty quantification, analyses of the performance of your projects, as well as statistics and delay probabilities of future projects.
-<br>**[Contact us.](/contact)**  
+We are experienced in controlling and managing Energy, Transportation, Oil & Gas, and Mining projects in Latin America.
 
-We anonymise and integrate data from multiple projects and companies to feed our statistical and machine learning models. Your data remains safe and anonymous.
-
-Test our high-level descriptive analytics dashboard:
+Our confluence of digital savvy, on-site experience, and management best practices will help you guarantee your projects' success.

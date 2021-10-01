@@ -19,4 +19,4 @@ We work with your team to adjust Project Controls and risk management processes,
 
 **Management culture**: We help your contractors and subsidiaries to meet your parent company's management systems needs.
 
-**Project constrains**: We help you identify and implement the adjustment that specific projects conditions make necessary in your management systems.
+**Project constrains**: We help you identify and implement the adjustments that specific projects conditions make necessary in your management systems.

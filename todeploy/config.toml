@@ -28,10 +28,10 @@ theme = "themes/hugo-hero-theme"
     meta_twitter_site = ""
     meta_twitter_creator = ""
 
-[[menu.main]]
-    name = "Demo"
-    url = "/demo/"
-    weight = 3
+#[[menu.main]]
+#    name = "Demo"
+#    url = "/demo/"
+#    weight = 3
 
 
 [[menu.main]]
