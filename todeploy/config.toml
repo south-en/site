@@ -15,15 +15,15 @@ theme = "themes/hugo-hero-theme"
       unsafe = true
 
 [params]
-  google_analytics_id="G-3VPNCCCKS4"
+  google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Project dellivery solutions."
+    meta_description = "Project controls & risks management."
     meta_og_title = "SOUTHEN"
     meta_og_type = "website"
     meta_og_url = ""
     meta_og_image = ""
-    meta_og_description = "Project dellivery solutions."
+    meta_og_description = "Project controls & risk management."
     meta_twitter_card = "summary"
     meta_twitter_site = ""
     meta_twitter_creator = ""
@@ -31,19 +31,19 @@ theme = "themes/hugo-hero-theme"
 [[menu.main]]
     name = "Demo"
     url = "/demo/"
-    weight = 1
+    weight = 3
 
 
 [[menu.main]]
   name = "Our work"
   url = "/services/"
-  weight = 2
+  weight = 1
 
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
 
 #[[menu.main]]

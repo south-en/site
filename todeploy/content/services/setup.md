@@ -1,12 +1,12 @@
 ---
-title: 'Descriptive analytics'
+title: 'Projects Controls set up'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 weight: 2
 draft: false
-heroHeading: 'Descriptive Analytics'
-heroSubHeading: 'Interactive visuals to understand your performance drivers.'
+heroHeading: 'Get ready to control'
+heroSubHeading: 'Project Controls set up.'
 heroBackground: 'images/network.gif'
 button: 'Contact us to know more'
 buttonLink: 'contact'

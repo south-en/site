@@ -1,0 +1,4 @@
+[submodule "todeploy/public"]
+	path = todeploy/public
+	url = https://github.com/south-en/south-en.github.io.git
+	branch = main

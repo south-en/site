@@ -1,5 +1,5 @@
 ---
-title: "A Hub for Risk and Performance Data of Project Schedules"
+title: "We provide our extensive experience and flexibility to serve the success of your projects."
 weight: 1
 background: 'work/.svg'
 button: 'interactive demo'

@@ -5,9 +5,3 @@ weight: 1
 background: ''
 
 ---
-
-Model of projects' variables and risks that
-
-Modelo de variables y riesgos de proyectos  influenciando los desvíos .
-
-align: right
